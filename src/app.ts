@@ -14,7 +14,7 @@ app.use('/api/orders', OrderRoutes);
 
 
 app.get('/', (req:Request, res: Response) => {
-  res.send('Hello World!')
+  res.send('Order Inventory Management Server is running!')
 })
 
 export default app;
