@@ -51,9 +51,6 @@ npm run start
 
 
 
-## Main Section (50 Marks):
-
-
 ## Product Management
 
 ### **1. Create a New Product**
@@ -428,8 +425,6 @@ npm run start
     ```
     
 
-## **Bonus Section (10 Marks):**
-
 **Inventory Update**: 
 
 When creating new order (**`/api/orders`** ) ,reduce the `quantity` of the ordered product in inventory and update the **`inStock`** property.
@@ -480,7 +475,6 @@ When creating new order (**`/api/orders`** ) ,reduce the `quantity` of the order
 - Handled validation errors gracefully and provide meaningful error messages in the API responses.
 
 
-***Not following the specified API endpoint structure, naming conventions, and other instructions will result in a deduction of marks.***
 
 
 
