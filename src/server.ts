@@ -16,4 +16,4 @@ async function main() {
   
   }
 
-main().then(()=> console.log("Mongodb connected successfully!")).catch(()=> console.log("Error connecting to mongodb"))
+main().then(()=> console.log("Mongodb connected successfully!"));
